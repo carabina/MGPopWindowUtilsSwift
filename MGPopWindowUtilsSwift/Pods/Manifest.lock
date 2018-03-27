@@ -1,0 +1,33 @@
+PODS:
+  - CLImagePickerTool (2.2.8)
+  - MGBaseViewSwift (0.0.3)
+  - MGExtensionSwift (0.0.2)
+  - MGUtilsSwift (0.0.2):
+    - CLImagePickerTool
+    - ReachabilitySwift
+    - SwiftyJSON
+    - Toast-Swift (~> 3.0.1)
+  - MGViewsSwift (0.0.2):
+    - MGBaseViewSwift (~> 0.0.3)
+    - MGExtensionSwift (~> 0.0.2)
+    - MGUtilsSwift (~> 0.0.2)
+  - ReachabilitySwift (4.1.0)
+  - SwiftyJSON (4.0.0)
+  - Toast-Swift (3.0.1)
+
+DEPENDENCIES:
+  - MGViewsSwift (~> 0.0.2)
+
+SPEC CHECKSUMS:
+  CLImagePickerTool: 13a32459afbeec0da2efd32ab9b3f97003375fa7
+  MGBaseViewSwift: 6cecc5944d10eb55a1332c7576eacd07132846ac
+  MGExtensionSwift: eaef6b02bd88b4a3d3d7393545b289684f37a1d3
+  MGUtilsSwift: f848d79bb86d4608a92937524261d1b2e7af3727
+  MGViewsSwift: de8a06d6564725a02dbcc78a515b0dd4f8a81820
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  Toast-Swift: ba0b01b095aada709d915f9beb1d38184a2721c3
+
+PODFILE CHECKSUM: 294200c9a0753e0bc020689d9a1ce9a220c9ff38
+
+COCOAPODS: 1.4.0
